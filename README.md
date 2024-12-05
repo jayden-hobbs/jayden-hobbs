@@ -2,12 +2,13 @@
 
 I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security with Hons at Leeds Beckett University, an NCSC addredited university. Some of my modules include Computer Programmig using Python, Obbject Oreinteed Programming using Java and more! Outside of uni work, I work on individual projects such as learning new code languages and doing extra work for my modules.
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--2345--6789-a8a8a8?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9252-8832)
-[![Linkedin Badge](https://img.shields.io/badge/-Jayden Hobbs-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenhobbs/) 
-[![Mail Badge](https://img.shields.io/badge/-@Jayden Hobbs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jayden_hobnob/) 
-[![Mail Badge](https://img.shields.io/badge/-Jayden Hobbs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaydenhobbs1@icloud.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jayden%20Hobbs-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenhobbs/) 
+[![Instagram Badge](https://img.shields.io/badge/-@jayden_hobnob-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jayden_hobnob/) 
+[![Gmail Badge](https://img.shields.io/badge/-Jayden%20Hobbs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaydenhobbs1@icloud.com)
+
 
 #### Top Technologies
 
