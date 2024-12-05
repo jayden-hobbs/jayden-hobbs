@@ -39,4 +39,5 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 
 
 ### Profile views counter 👁️‍🗨️
-[![Jayden Hobbs profile views](https://u8views.com/api/v1/github/profiles/180771029/views/day-week-month-total-count.svg)](https://u8views.com/github/jayden-hobbs)
+![Jayden Hobbs profile views](https://u8views.com/api/v1/github/profiles/180771029/views/day-week-month-total-count.svg)
+
