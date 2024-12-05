@@ -13,9 +13,10 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 #### Top Technologies
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Java Badge](https://banner2.cleanpng.com/lnd/20241004/wy/ccd2eea31f264a92ae7f966bcf974a.webp)
+[![Java Badge](https://img.shields.io/badge/-Java-F8981D?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/) ![Custom Java Badge](https://banner2.cleanpng.com/lnd/20241004/wy/ccd2eea31f264a92ae7f966bcf974a.webp)
 [![Batchfile Badge](https://img.shields.io/badge/-Batchfile-4D4D4D?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Batch_file)
 [![Shell Badge](https://img.shields.io/badge/-Shell-89e051?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 
 
 
