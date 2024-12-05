@@ -4,7 +4,7 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 
 :mailbox: Reach out to me!
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0002-9252-8832-a8a8a8?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9252-8832)
+[![ORCID](https://img.shields.io/badge/ORCID--0009--0002--9252--8832-a8a8a8?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9252-8832)
 [![Linkedin Badge](https://img.shields.io/badge/-Jayden%20Hobbs-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenhobbs/) 
 [![Instagram Badge](https://img.shields.io/badge/-@jayden_hobnob-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jayden_hobnob/) 
 [![Gmail Badge](https://img.shields.io/badge/-Jayden%20Hobbs-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaydenhobbs1@icloud.com)
