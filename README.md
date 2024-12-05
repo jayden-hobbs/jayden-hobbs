@@ -28,8 +28,8 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 ### My stats ⭐
 
 <div style="display: flex; justify-content: flex-start; gap: 20px;">
-  <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&cache_buster=2" height="150"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&cache_buster=2" height="150"/>
+  <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jayden-hobbs&show_icons=true&theme=transparent&cache_buster=2" height="150"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayden-hobbs&layout=compact&langs_count=8&cache_buster=2" height="150"/>
 </div>
 
 
