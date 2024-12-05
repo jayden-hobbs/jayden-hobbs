@@ -10,7 +10,7 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me!-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaydenhobbs1@icloud.com)
 
 
-#### Top Technologies
+#### Top Languages
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logoColor=white&labelColor=3776AB&logoWidth=0&width=200&height=50)](https://www.python.org/)
 [![Java Badge](https://img.shields.io/badge/-Java-F8981D?style=for-the-badge&logoColor=white&labelColor=F8981D&logoWidth=0&width=200&height=50)](https://www.java.com/)
