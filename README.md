@@ -18,16 +18,6 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 [![Shell Badge](https://img.shields.io/badge/-Shell-89e051?style=for-the-badge&logoColor=white&labelColor=89e051&logoWidth=0&width=200&height=50)](https://www.gnu.org/software/bash/)
 
 
-
-
-
-
-
-
-
-
-
-
 <br/>
 
 ### Bizness
@@ -38,9 +28,10 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 ### My stats ⭐
 
 <div align="center">
-  <img alt="Jayden's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jayden-hobbs&show_icons=true&theme=transparent"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayden-hobbs&layout=compact&langs_count=8"/>
+  <img alt="Jayden's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jayden-hobbs&show_icons=true&theme=transparent" height="300"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayden-hobbs&layout=compact&langs_count=8" height="300"/>
 </div>
+
 
 
 ### Profile views counter 👁️‍🗨️
