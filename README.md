@@ -23,6 +23,7 @@ I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security
 
 ### Bizness
 - :email: jaydenhobbs1@icloud.com
+- CV coming soon... 📃
 
 <br/>
 
