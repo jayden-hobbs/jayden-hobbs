@@ -1,7 +1,5 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span>### Hi, I'm Jayden! 👋</span>
-  <span>![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)</span>
-</div>
+### Hi, I'm Jayden! 👋 &nbsp;&nbsp;&nbsp; ![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)
+
 
 
 
