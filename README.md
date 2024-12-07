@@ -1,4 +1,4 @@
-### Hi, I'm Jayden! 👋
+### Hi, I'm Jayden! 👋                &nbsb;  ![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)
 
 Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security with Hons at Leeds Beckett University, an NCSC addredited university. Some of my modules include Computer Programmig using Python, Obbject Oreinteed Programming using Java and more! Outside of uni work, I work on individual projects such as learning new code languages, doing extra work for my modules and creating ducky scripts for my flipper zero!
 
@@ -38,6 +38,4 @@ Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cybe
 ### Profile views counter 👁️
 <a href="https://u8views.com/github/jayden-hobbs"><img src="https://u8views.com/api/v1/github/profiles/180771029/views/day-week-month-total-count.svg"></a>
 
-
-![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)
 
