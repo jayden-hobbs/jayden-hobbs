@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td>### Hi, I'm Jayden! 👋</td>
-    <td align="right">![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)</td>
+    <td align="right">[![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)</td>
   </tr>
 </table>
 
