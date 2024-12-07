@@ -17,6 +17,8 @@ Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cybe
 [![Batchfile Badge](https://img.shields.io/badge/-Batchfile-4D4D4D?style=for-the-badge&logoColor=white&labelColor=4D4D4D&logoWidth=0&width=200&height=50)](https://en.wikipedia.org/wiki/Batch_file)
 [![Shell Badge](https://img.shields.io/badge/-Shell-89e051?style=for-the-badge&logoColor=white&labelColor=89e051&logoWidth=0&width=200&height=50)](https://www.gnu.org/software/bash/)
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0078d4&logoWidth=0&width=200&height=50)](https://code.visualstudio.com/)
+[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=000000)](https://www.jetbrains.com/pycharm/)
+
 
 
 
