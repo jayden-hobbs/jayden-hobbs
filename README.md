@@ -1,19 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <h3>Hi, I'm Jayden! 👋</h3>
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.shields.io/github/followers/jayden-hobbs?style=social" alt="Followers" />
-  </div>
-</div>
-
-
-
-
-
-
-
-
+### Hi, I'm Jayden! 👋
 
 Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security with Hons at Leeds Beckett University, an NCSC addredited university. Some of my modules include Computer Programmig using Python, Obbject Oreinteed Programming using Java and more! Outside of uni work, I work on individual projects such as learning new code languages, doing extra work for my modules and creating ducky scripts for my flipper zero!
 
