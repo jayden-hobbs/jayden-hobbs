@@ -39,3 +39,5 @@ Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cybe
 <a href="https://u8views.com/github/jayden-hobbs"><img src="https://u8views.com/api/v1/github/profiles/180771029/views/day-week-month-total-count.svg"></a>
 
 
+![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)
+
