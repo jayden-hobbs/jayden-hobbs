@@ -7,6 +7,7 @@
 
 
 
+
 Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cyber Security with Hons at Leeds Beckett University, an NCSC addredited university. Some of my modules include Computer Programmig using Python, Obbject Oreinteed Programming using Java and more! Outside of uni work, I work on individual projects such as learning new code languages, doing extra work for my modules and creating ducky scripts for my flipper zero!
 
 :mailbox: Reach out to me!
