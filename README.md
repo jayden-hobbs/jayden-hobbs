@@ -1,4 +1,4 @@
-### Hi, I'm Jayden! 👋 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social&logoWidth=30)
+### Hi, I'm Jayden! 👋 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/github/followers/jayden-hobbs?style=social" width="150"/>
 
 
 
