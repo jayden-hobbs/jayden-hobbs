@@ -21,6 +21,7 @@ Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cybe
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0078d4&logoWidth=0&width=200&height=50)](https://code.visualstudio.com/)
 [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&labelColor=000000)](https://www.jetbrains.com/pycharm/)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C93?style=for-the-badge&logo=kali&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 
 
