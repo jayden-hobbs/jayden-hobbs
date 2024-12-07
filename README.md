@@ -1,6 +1,11 @@
-| **Hi, I'm Jayden! 👋**                          | ![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social) |
-|-------------------------------------------------|------------------------------------------------------------------------|
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <h3>Hi, I'm Jayden! 👋</h3>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://img.shields.io/github/followers/jayden-hobbs?style=social" alt="Followers" />
+  </div>
+</div>
 
 
 
