@@ -43,6 +43,8 @@ Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cybe
 <img alt="Your GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jayden-hobbs&show_icons=true&theme=transparent&cache_buster=8" height="150"/>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayden-hobbs&layout=compact&langs_count=8&cache_buster=8" height="150"/>
 </div>
+![Followers](https://img.shields.io/github/followers/jayden-hobbs?style=social)
+
 
 
 ### Profile views counter 👁️
