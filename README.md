@@ -17,12 +17,19 @@ Hi there! I'm Jayden Hobbs and I am currently in my first year studying BSc Cybe
 [![DUCKY Badge](https://img.shields.io/badge/-DUCKY-FF69B4?style=for-the-badge&logo=duckduckgo&logoColor=white&labelColor=FF69B4&logoWidth=0&width=200&height=50)](https://www.duckyscript.com/)
 [![Batchfile Badge](https://img.shields.io/badge/-Batchfile-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=4D4D4D&logoWidth=0&width=200&height=50)](https://en.wikipedia.org/wiki/Batch_file)
 [![Shell Badge](https://img.shields.io/badge/-Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=89e051&logoWidth=0&width=200&height=50)](https://www.gnu.org/software/bash/)
+[![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000&logoWidth=0&width=200&height=50)](https://www.rust-lang.org/)
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=CC342D&logoWidth=0&width=200&height=50)](https://www.ruby-lang.org/)
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5&logoWidth=0&width=200&height=50)](https://kotlinlang.org/)
+
 
 #### Tools Used:
-[![VSCode Badge](https://img.shields.io/badge/-VSCode-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0078d4&logoWidth=0&width=200&height=50)](https://code.visualstudio.com/)
-[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=000000&logoWidth=0&width=200&height=50)](https://www.jetbrains.com/pycharm/)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C93?style=for-the-badge&logo=kali&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+[![VSCode Badge](https://img.shields.io/badge/-VSCode-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E90FF&logoWidth=0&width=200&height=50)](https://code.visualstudio.com/)
+[![PyCharm Badge](https://img.shields.io/badge/-PyCharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=32CD32&logoWidth=0&width=200&height=50)](https://www.jetbrains.com/pycharm/)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FF6347?style=for-the-badge&logo=kali&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-FFD700?style=for-the-badge&logo=linuxmint&logoColor=white)
+[![IntelliJ IDEA Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-FF1493?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=FF1493&logoWidth=0&width=200&height=50)](https://www.jetbrains.com/idea/)
+
+
 
 
 
