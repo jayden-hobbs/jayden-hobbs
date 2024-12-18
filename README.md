@@ -1,6 +1,9 @@
 ### Hi, I'm Jayden! 👋
 Hi there! I'm Jayden Hobbs, and I am currently in my first year studying BSc Cyber Security with Hons at Leeds Beckett University, an NCSC accredited university. Some of my modules include Computer Programming using Python, Object-Oriented Programming using Java, and more! Outside of uni work, I work on individual projects such as learning new coding languages, doing extra work for my modules, and creating ducky scripts for my flipper zero!
 
+### Check out some of my Gists! 📚
+[![World's Worst GUI](https://img.shields.io/badge/World's_Worst_GUI-Gist-blue)](https://gist.github.com/jayden-hobbs/4471e559ff4d93e41ab13c49ce8112e6)
+
 
 
 :mailbox: Reach out to me!
