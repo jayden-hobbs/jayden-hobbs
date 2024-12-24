@@ -6,14 +6,14 @@ Hi there! I'm Jayden Hobbs, and I am currently in my first year studying BSc Cyb
 
 
 
-:mailbox: Reach out to me!
+:mailbox: Reach out to me! 📲
 
 [![ORCID](https://img.shields.io/badge/ORCID--0009--0002--9252--8832-a8a8a8?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9252-8832)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydenhobbs/) 
 [![Instagram Badge](https://img.shields.io/badge/-Follow%20me%20on%20Insta!-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/jayden_hobnob/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email%20Me!-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jaydenhobbs1@icloud.com)
 
-#### Langs Used:
+#### Every Lang I've Used: 💬
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&logoWidth=0&width=200&height=50)](https://www.python.org/)
 [![Java Badge](https://img.shields.io/badge/-Java-F8981D?style=for-the-badge&logo=java&logoColor=white&labelColor=F8981D&logoWidth=0&width=200&height=50)](https://www.java.com/)
 [![DUCKY Badge](https://img.shields.io/badge/-DUCKY-FF69B4?style=for-the-badge&logo=duckduckgo&logoColor=white&labelColor=FF69B4&logoWidth=0&width=200&height=50)](https://www.duckyscript.com/)
@@ -24,7 +24,7 @@ Hi there! I'm Jayden Hobbs, and I am currently in my first year studying BSc Cyb
 [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5&logoWidth=0&width=200&height=50)](https://kotlinlang.org/)
 
 
-#### Tools Used:
+#### Every Tool I've Used: ✂️
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E90FF&logoWidth=0&width=200&height=50)](https://code.visualstudio.com/)
 [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=32CD32&logoWidth=0&width=200&height=50)](https://www.jetbrains.com/pycharm/)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-FF6347?style=for-the-badge&logo=kali&logoColor=white)
