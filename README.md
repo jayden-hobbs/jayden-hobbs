@@ -3,7 +3,7 @@ Hi there! I'm Jayden Hobbs, and I am currently in my first year studying BSc Cyb
 
 ### Check out my Gists! 📚
 [![World's Worst GUI](https://img.shields.io/badge/World's_Worst_GUI-Gist-blue)](https://gist.github.com/jayden-hobbs/4471e559ff4d93e41ab13c49ce8112e6)
-
+[![Fizz Buzz](https://img.shields.io/badge/Fizz_Buzz-Gist-green)](https://gist.github.com/jayden-hobbs/07297ab43d9811014439b5f0cd3dff77)
 
 
 :mailbox: Reach out to me! 📲
