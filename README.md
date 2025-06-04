@@ -37,7 +37,8 @@ Hi there! I'm Jayden Hobbs, and I am currently in my first year studying BSc Cyb
 
 ### Bizness
 - :email: me@jaydenhobbs.co.uk
-- CV coming soon... 📃
+- CV [here](https://me.jaydenhobbs.co.uk/JAYDEN-HOBBS-CV.pdf)
+
 
 <br/>
 
